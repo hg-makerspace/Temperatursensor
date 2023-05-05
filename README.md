@@ -1,1 +1,2 @@
-# temperatursensor
+# Temperatursensor
+Ein Temperatursensor mit Anzeige
