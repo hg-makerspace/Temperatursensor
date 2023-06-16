@@ -1,0 +1,2 @@
+wlan_name=schulwlan
+wlan_passwort=dasschulwlanpasswort
