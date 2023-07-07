@@ -14,7 +14,6 @@
 * Jumperkabel 4-adrig weiblich
 * Streifen-Rasterplatine 12x6
 * Möglichst flaches Kabel Micro-USB auf USB Typ A
-*
 * Bei bedarf starker Magnet, Zylinderform, Durchmesser ca. 7mm, Höhe ca. 4mm (optional)
   
 <img src="https://github.com/thiaska/Temperatursensor/blob/main/doc/Alle_Teile.jpg" height="200" />
