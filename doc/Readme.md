@@ -54,7 +54,7 @@
 <img src="https://github.com/thiaska/Temperatursensor/blob/main/doc/Loeten_4.jpg" height="200" />
 5. OLED auf D1 Mini stecken
 <img src="https://github.com/thiaska/Temperatursensor/blob/main/doc/Zusammenbau_1.jpg" height="200" />
-6. Gehaeuse Teile drucken
+6. Gehaeuse Teile drucken <BR>
 7. D1 Mini mit OLED in das Gehaeuse stecken
 <img src="https://github.com/thiaska/Temperatursensor/blob/main/doc/Zusammenbau_2.jpg" height="200" />
 8. Pins der Buchsenleiste kürzen
