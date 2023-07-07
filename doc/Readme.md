@@ -63,7 +63,8 @@
 <img src="https://github.com/thiaska/Temperatursensor/blob/main/doc/Zusammenbau_4.jpg" height="200" />
 10. Gehaeusedeckel schließen. Gehaeuse auf halter stecken. Dabei darauf achten, dass die Markierung mit "G" links unten ist.
 <img src="https://github.com/thiaska/Temperatursensor/blob/main/doc/Zusammenbau_5.jpg" height="200" />
-11. Jumperkabel wie uf dem Bild mit dem Sensor verbinden 
+11. Pfostenleiste auf Sensor loeten <BR>
+12. Jumperkabel wie uf dem Bild mit dem Sensor verbinden 
 <img src="https://github.com/thiaska/Temperatursensor/blob/main/doc/Verkabelung_1.jpg" height="200" />
 <img src="https://github.com/thiaska/Temperatursensor/blob/main/doc/Verkabelung_2.jpg" height="200" />
 <img src="https://github.com/thiaska/Temperatursensor/blob/main/doc/Verkabelung_3.jpg" height="200" />
